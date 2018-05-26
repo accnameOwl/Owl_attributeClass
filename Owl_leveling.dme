@@ -13,7 +13,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "main.dm"
-#include "readme.dm"
+#include "code/main.dm"
+#include "code/readme.dm"
 // END_INCLUDE
 
